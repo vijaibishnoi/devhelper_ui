@@ -1,7 +1,7 @@
 .half, .50 {width:50%;}
-.25 {width:25%}
-.75 {width: 75%}
-.full, .100 {width:100%;}
+.p25 {width:25%}
+.p75 {width: 75%}
+.full, .p100 {width:100%;}
 .green, green {color: #4CAF50;} 
 .red, red {color: red;} 
 .blue, blue {color: blue;}
