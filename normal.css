@@ -1,0 +1,40 @@
+.half, .50 {width:50%;}
+.25 {width:25%}
+.75 {width: 75%}
+.full, .100 {width:100%;}
+.green, green {color: #4CAF50;} 
+.red, red {color: red;} 
+.blue, blue {color: blue;}
+.black, black {color: #000; }
+.white, white {color: #fff; }
+.greenbg {background-color: #4CAF50!important;} 
+.redbg {background-color: red!important;} 
+.bluebg {background-color: blue!important;}
+.blackbg {background-color: #000!important; }
+.whitebg {background-color: #fff!important; }
+.input, .select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.submit { background-color: #4CAF50; font-size: 17px; 
+  color: white;
+  padding: 10px 25px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #45a049;
+}
+
+.form {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
