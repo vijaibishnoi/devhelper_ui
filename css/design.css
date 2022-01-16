@@ -1,0 +1,28 @@
+.line {color:#fff; background-color: #000;; margin: 12px 16px; padding: 4px 16px}
+
+  
+.stories {
+  border-bottom: 1px solid #F1F1F1;
+  overflow-y:scroll;
+  display:flex;
+  padding:12px;
+  
+}
+  
+  .stories__header {
+    display:flex;
+    justify-content:space-between-;
+    padding: 12px;
+  }
+  
+  .story {
+    flex:0 0 auto;
+    margin-right:24px;
+    text-align:center;}
+    
+    .story-user__image {
+      border-radius: 50%;
+      position:relative;
+      border:2px solid red;
+    }
+}
