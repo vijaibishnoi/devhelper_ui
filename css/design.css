@@ -5,6 +5,7 @@
   width: 100%;
   background-color: #4d4d4d;
   position: relative;
+  z-index: 100;
 }
 
 .nav > .nav-header {
@@ -108,6 +109,7 @@
 .story_image {
       border-radius: 50%;
       position:relative;
+      z-index:2;
       border:2px solid red; }
 .story_name {font-weight:bold; padding:0; margin:0;} 
 
