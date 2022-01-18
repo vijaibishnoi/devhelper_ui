@@ -42,7 +42,7 @@ p{
 }
 .row{
     display: flex;
-    align-items: center;
+    align-items: initial;
     flex-wrap: wrap;
     justify-content: space-around;
 }
