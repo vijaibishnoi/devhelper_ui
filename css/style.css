@@ -133,11 +133,11 @@ float: left;
     opacity: .4;
     font-weight: 200;
 }
-.footer-menu{ background-color: #4d4d4d;
+.footer-menu{ background-color: #000;
   float: right;
 
 }
-.footer-menu ul{ background-color: #4d4d4d;
+.footer-menu ul{ background-color: #000;
   display: flex;
 }
 .footer-menu ul li{
