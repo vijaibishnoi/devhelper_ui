@@ -504,7 +504,10 @@ form a{
 
 
 
-.line {color:#fff; background-color: #4d4d4d;; margin: 12px 16px; padding: 4px 16px}
+.line {color:#fff; background-color: #4d4d4d; 
+  border-radius: 15px 0px 0px 15px;
+  border-left: 8px solid #ff523b;
+  margin: 12px 16px; padding: 4px 16px}
 
 .stories {background-color: #fff;
   border-bottom: 1px solid #000;
