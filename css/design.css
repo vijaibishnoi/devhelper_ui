@@ -332,7 +332,7 @@ input:focus{
 .cart-page{
     margin: 80px auto;
 }
-table{
+table.cart {
     width: 100%;
     border-collapse: collapse;
 }
@@ -340,26 +340,26 @@ table{
     display: flex;
     flex-wrap: wrap;
 }
-th{
+table.cart th{
     text-align: left;
     padding: 5px;
     color: #fff;
     background: #ff523b;
     font-weight: normal;
 }
-td{
+table.cart td{
     padding: 10px 5px;
 }
-td input{
+table.cart td input{
     width: 40px;
     height: 30px;
     padding: 5px;
 }
-td a{
+table.cart td a{
     color: #ff523b;
     font-size: 12px;
 }
-td img{
+table.cart td img{
     width: 80px;
     height: 80px;
     margin-right: 10px;
