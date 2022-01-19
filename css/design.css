@@ -149,34 +149,34 @@ small{
 }
 
 /* Testimonial */
-.testimonial{
+.testimonial, .tools{
     margin-top: 100px;
 }
-.testimonial .col-3{
+.testimonial .col-3, .tools .col-3{
     text-align: center;
     padding: 40px 20px;
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     transition: transform 0.5s;
 }
-.testimonial .col-3 img{
+.testimonial .col-3 img, .tools .col-3 img{
     width: 50px;
     margin-top: 20px;
     border-radius: 50%;
 }
-.testimonial .col-3:hover{
+.testimonial .col-3:hover, .tools .col-3:hover{
     transform: translateY(-10px);
 }
-.fa.fa-quote-left{
+.testimonial .icon, .tools .icon{
     font-size: 34px;
     color: #ff523b;
 }
-.col-3 p{
+.testimonial .col-3 p, .tools .col-3 p{
     font-size: 12px;
     margin: 12px 0;
     color: #777;
 }
-.testimonial .col-3 h3{
+.testimonial .col-3 h3, .tools .col-3 h3{
     font-weight: 600;
     color: #555;
     font-size: 16px;
