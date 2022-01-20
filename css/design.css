@@ -407,27 +407,27 @@ th:last-child{
 .form-btn{
     display: inline-block;
 }
-.form-container .cmtform{
+.form-container .cmt_form{
     max-width: 300px;
     padding: 0 20px;
     position: absolute;
-    top: 130px;
+    top: 100px;
     transition: transform 1s;
 }
-.cmtform form .input, .cmtform form .textarea{
+.cmt_input {
     width: 100%;
     height: 30px;
     margin: 10px 0;
     padding: 0 10px;
     border: 1px solid #ccc;
 }
-.cmtform form .button{
+.cmt_btn{
     width: 100%;
     border: none;
     cursor: pointer;
     margin: 10px 0;
 }
-.cmtform form .button:focus{
+.cmt_btn:focus{
     outline: none;
 }
 #LoginForm{
@@ -436,7 +436,7 @@ th:last-child{
 #RegForm{
     left: 0;
 }
-.cmtform a{
+.cmt_form a{
     font-size: 12px;
 }
 #Indicator{
