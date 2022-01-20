@@ -421,6 +421,13 @@ th:last-child{
     padding: 0 10px;
     border: 1px solid #ccc;
 }
+.cmt_textarea {
+    width: 100%;
+    height: 80px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+}
 .cmt_btn{
     width: 100%;
     border: none;
