@@ -3,7 +3,7 @@
 
 /* Headings */ 
 h1, h2, h3, h4, h5 {
-font-family: 'Oswald', sans-serif;
+font-family: 'Oswald', sans-serif!important;
 }
 h1 {font-size: 32px; margin-top: 10px; font-weight: 700} 
 h2 {font-size: 23px; margin-top: 7px; font-weight: 600} 
