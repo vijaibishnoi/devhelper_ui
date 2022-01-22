@@ -1,17 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
 
 /* Headings */ 
 h1, h2, h3, h4, h5 {
-font-weight: 700; 
-font-family: 'Roboto', sans-serif;
+font-family: 'Oswald', sans-serif;
 }
-h1 {font-size: 32px; margin-top: 10px} 
-h2 {font-size: 23px; margin-top: 7px} 
-h3 {font-size: 19px} 
-h4 {font-size: 16px} 
-h5 {font-size: 15px} 
-p {font-size: 14px, font-weight:300;}
+h1 {font-size: 32px; margin-top: 10px; font-weight: 700} 
+h2 {font-size: 23px; margin-top: 7px; font-weight: 600} 
+h3 {font-size: 19px; font-weight: 600} 
+h4 {font-size: 16px; font-weight: 500} 
+h5 {font-size: 15px; font-weight: 500} 
+p {font-size: 14px, font-weight:300; font-weight: 600; font-family: 'Roboto', sans-serif;}
 
 
 /* Messages  */ 
