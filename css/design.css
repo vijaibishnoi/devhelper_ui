@@ -553,3 +553,71 @@ th:last-child{
 .dh_grid .text {
   padding: 20px;
 }
+
+
+.aadi {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5px;
+}
+
+.aadi div {  padding: 3%;
+  border-radius: 5px;
+  text-align: left;
+  color: white;}
+
+.ubi-1 {
+  width: 8.33%;
+}
+
+.ubi-2 {
+  width: 16.66%;
+}
+
+.ubi-3 {
+  width: 25%;
+}
+
+.ubi-4 {
+  width: 33.33%
+}
+  
+.ubi-5 {
+  width: 41.66%;
+}
+
+.ubi-6 {
+  width: 50%;
+}
+
+.ubi-7 {
+  width: 58.33%;
+}
+
+.ubi-8 {
+  width: 66.66%;
+}
+
+.ubi-9 {
+  width: 75%;
+}
+
+.ubi-10 {
+  width: 83.33%;
+}
+
+.ubi-11 {
+  width: 91.66%;
+}
+
+.ubi-12 {
+  width: 100%;
+}
+
+
+@media screen and (max-width: 630px) {
+  .aadi div {
+    padding: 1.5%;  
+  }    
+} 
