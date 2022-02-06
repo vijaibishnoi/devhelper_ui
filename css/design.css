@@ -312,7 +312,7 @@ select:focus{
 input:focus{
     outline: none;
 }
-.single-product .fa{
+.single-product .icon {
     color: #ff523b;
     margin-left: 10px;
 }
