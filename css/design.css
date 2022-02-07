@@ -59,7 +59,7 @@ p{
 .button{
     display: inline-block;
     background: #ff523b;
-    color: white;
+    color: white!important;
     padding: 8px 30px;
     margin: 30px 0;
     border-radius: 30px;
